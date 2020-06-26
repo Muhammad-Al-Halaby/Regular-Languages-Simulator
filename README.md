@@ -12,7 +12,7 @@ Regular Languages Simulator such as DFAs and NFAs based on Automata Theory
   
  - The application has similar feautres to the popular [JFLAP](http://www.jflap.org/) with a more user-friendly interface and a slightly better performance with large simulations.
  
-## User manual
+## User Manual
 1. Double click on the drawing panel to draw a node.
 1. Right click on the node to set its attributes.
 1. After drawing the graph you can start the simulation by pressing "simulate" button and go step by step to see all the states with some nice features like freezing and tracing back the whole path for a set of transitions.
