@@ -1,4 +1,4 @@
-# Regular-Languages-Simulator
+# Regular Languages Simulator
 Regular Languages Simulator such as DFAs and NFAs based on Automata Theory
 
 
