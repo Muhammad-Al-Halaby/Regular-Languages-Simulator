@@ -9,6 +9,8 @@ Regular Languages Simulator such as DFAs and NFAs based on Automata Theory
   - Drawing panel where you can draw the DFA or NFA.
   - Control panel where you can start the simulation, freeze, unfreeze, trace back, or even remove a state from the resulted states.
   - States panel where you see each state and trace its path back or freeze it.
+  
+ - The application has similar feautres to the popular [JFLAP](http://www.jflap.org/) with a more user-friendly interface and a slightly better performance with large simulations.
  
 ## User manual
 1. Double click on the drawing panel to draw a node.
