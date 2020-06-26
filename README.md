@@ -5,7 +5,7 @@ Regular Languages Simulator such as DFAs and NFAs based on Automata Theory
 ## Software Description
 - The project is written in Java, the front end was created using java swing library and the back end was created using graphs and data structures.
 
-- The application consists of three main panels
+- The application consists of three main panels:
   - Drawing panel where you can draw the DFA or NFA.
   - Control panel where you can start the simulation, freeze, unfreeze, trace back, or even remove a state from the resulted states.
   - States panel where you see each state and trace its path back or freeze it.
@@ -13,10 +13,7 @@ Regular Languages Simulator such as DFAs and NFAs based on Automata Theory
 ## User manual
 1. Double click on the drawing panel to draw a node.
 1. Right click on the node to set its attributes.
-1. After drawing the diagram press simulate button then perform the operations you wish to operate.
-
-
-After drawing the states diagram of the FSM, you can start the simulation and go step by step to see all the states with some nice features like freezing and tracing back the whole path for a set of transitions.
+1. After drawing the graph you can start the simulation by pressing "simulate" button and go step by step to see all the states with some nice features like freezing and tracing back the whole path for a set of transitions.
 
 
 ## Examples
